@@ -6,11 +6,13 @@
   - DL
   - BD
   - audio
+  - IoT
   - analog circuit design.
 - 🌱 I’m currently learning 
   - ML
   - DL
   - BD
+  - IoT
 - 💞️ I’m looking to collaborate on
   - Anything!
 - 📫 How to reach me 
