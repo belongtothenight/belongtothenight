@@ -9,24 +9,10 @@
 <details><summary>Personal Details</summary>
 
 - 👋 Hi, I’m @belongtothenight
-- 👀 I’m interested in 
-  - Drones
-  - Control System
-  - ML
-  - DL
-  - BD
-  - audio
-  - IoT
-  - analog circuit design.
-- 🌱 I’m currently learning 
-  - ML
-  - DL
-  - BD
-  - IoT
-- 💞️ I’m looking to collaborate on
-  - Anything!
-- 📫 How to reach me 
-  - Email: dachuan516@gmail.com
+- 👀 I’m interested in Drones, Control Systems, ML, DL, BD, audio, analog circuit design, IoT.
+- I’m currently learning ML, DL, BD, IoT.
+- I've love to collaborate on: Anything!
+- Email: dachuan516@gmail.com
 
 </details>
 </div>
