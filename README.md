@@ -6,9 +6,9 @@
 </div>
 
 <div align="center">
-<details><summary>Personal Details</summary>
+<details><summary>More Details</summary>
 
-- 👋 Hi, I’m @belongtothenight
+- 👋 Hi, I’m @belongtothenight, currently studying in CYCU.
 - 👀 I’m interested in Drones, Control Systems, ML, DL, BD, audio, analog circuit design, IoT.
 - I’m currently learning ML, DL, BD, IoT.
 - I've love to collaborate on: Anything!
