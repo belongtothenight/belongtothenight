@@ -8,7 +8,7 @@
 <div align="center">
 <details><summary>More Details</summary>
 
-- 👋 Hi, I’m @belongtothenight, currently studying in CYCU.
+- 👋 Hi, I’m @belongtothenight, currently studying in CYCU Electrical Engineering Bachelor Degree.
 - 👀 I’m interested in Drones, Control Systems, ML, DL, BD, audio, analog circuit design, IoT.
 - I’m currently learning ML, DL, BD, IoT.
 - I've love to collaborate on: Anything!
