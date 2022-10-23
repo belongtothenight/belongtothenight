@@ -5,7 +5,7 @@
 
 </div>
 
-<details><summary>Does work</summary>
+<details><summary>Personal Details</summary>
 
 - 👋 Hi, I’m @belongtothenight
 - 👀 I’m interested in 
