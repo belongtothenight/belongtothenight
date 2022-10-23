@@ -5,6 +5,7 @@
 
 </div>
 
+<div align="center">
 <details><summary>Personal Details</summary>
 
 - 👋 Hi, I’m @belongtothenight
@@ -28,6 +29,7 @@
   - Email: dachuan516@gmail.com
 
 </details>
+</div>
 
 <!---
 belongtothenight/belongtothenight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
