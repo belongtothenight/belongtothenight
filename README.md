@@ -27,11 +27,23 @@
 - dynamic task finish time estimator like [this](https://www.youtube.com/watch?v=IUszMmtU8N0)
 
 </div>
-
-  <ul class="list-right">
-  <li>Mountain Lion</li>
-  <li>Lioness</li>
-  <li>Cheetah</li>
+  
+div.parent {
+	text-align: center;
+}
+ul { 
+	display: inline-block; 
+	text-align: left; 
+}
+  
+<div class="parent">
+	<ul>
+		<li>Item 1</li>
+		<li>Item 2</li>
+		<li>Item 3</li>
+		<li>Item 4</li>
+	</ul>
+</div>
   
 </details>
 </div>
