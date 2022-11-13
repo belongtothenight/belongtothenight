@@ -28,6 +28,11 @@
 
 </div>
 
+  <ul class="list-right">
+  <li>Mountain Lion</li>
+  <li>Lioness</li>
+  <li>Cheetah</li>
+  
 </details>
 </div>
 
