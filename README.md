@@ -8,11 +8,17 @@
 <div align="center">
 <details><summary>More Details</summary>
 
+## About me
+
 - 👋 Hi, I’m @belongtothenight, currently studying in CYCU Electrical Engineering Bachelor Degree.
 - 👀 I’m interested in Drones, Control Systems, ML, DL, BD, audio, analog circuit design, IoT.
 - I’m currently learning ML, DL, BD, IoT.
 - I've love to collaborate on: Anything!
 - Email: dachuan516@gmail.com
+
+## Possible Plans
+
+- dynamic task finish time estimator like [this](https://www.youtube.com/watch?v=IUszMmtU8N0)
 
 </details>
 </div>
