@@ -25,6 +25,7 @@
 <!-- <div align="left"> -->
 
 - dynamic task finish time estimator like [this](https://www.youtube.com/watch?v=IUszMmtU8N0)
+- use bash script to execute ffmpeg and replace some batch script in [batch_executable](https://github.com/belongtothenight/batch_executable)
 
 <!-- </div> -->
   
