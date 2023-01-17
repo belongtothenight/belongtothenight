@@ -1,6 +1,6 @@
 <div align="center">
   
-  <a href="https://github.com/belongtothenight">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belongtothenight&theme=codeSTACKr&show_icons=true)</a>
+  <a href="https://github.com/belongtothenight">![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=belongtothenight&theme=codeSTACKr&show_icons=true)</a>
   <a href="https://github.com/belongtothenight">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belongtothenight&theme=codeSTACKr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
 
 </div>
