@@ -13,10 +13,10 @@
 <!-- <div align="left"> -->
 
 - 👋 Hi, I’m @belongtothenight, currently studying in CYCU Electrical Engineering Bachelor Degree.
-- 👀 I’m interested in Drones, Control Systems, ML, DL, BD, audio, analog circuit design, IoT.    
-- I’m currently learning ML, DL, BD, IoT.							  
-- I've love to collaborate on: Anything!							  
-- Email: dachuan516@gmail.com									  
+- 👀 I’m interested in Drones, Control Systems, ML, DL, BD, audio, analog circuit design, IoT.
+- I’m currently learning RTDSP, FPGA, CN, CF, QC.
+- I've love to collaborate on: Anything!
+- Email: dachuan516@gmail.com
 
 <!-- </div> -->
 
@@ -28,7 +28,39 @@
 - use bash script to execute ffmpeg and replace some batch script in [batch_executable](https://github.com/belongtothenight/batch_executable)
 
 <!-- </div> -->
-  
+
+## Experienced Languages
+
+1. python
+2. matlab
+3. c / c++ / c#
+4. node.js / javascript / html / css
+5. verilog
+6. bash / batch
+7. java
+8. php
+
+<!-- </div> -->
+
+## Acronym 
+
+| acronym | fullword                            |
+| ------- | ----------------------------------- |
+| ML      | Machine Learning                    |
+| DL      | Deep Learning                       |
+| BD      | Big Data                            |
+| IoT     | Internet of Things                  |
+| RTDSP   | Real Time Digital Signal Processing |
+| FPGA    | Field Programmable Gate Array       |
+| CN      | Computer Network                    |
+| CF      | Chaos and Fractal                   |
+| QC      | Quantum Computing                   |
+
+
+<!-- </div> -->
+
+#### Update Time: 20230402
+
 </details>
 </div>
 
