@@ -56,24 +56,9 @@
 
 <!-- <div align="left"> -->
 
-1. dynamic task finish time estimator like [this](https://www.youtube.com/watch?v=IUszMmtU8N0)
-2. use bash script to execute ffmpeg and replace some batch script in [batch_executable](https://github.com/belongtothenight/batch_executable)
-3. a website keeping record of newest technology and developing history. (tech frontier/advance tree?)
-4. host a database with content: minecraft pics, vids, mods, shaders, textures... language: MySQL, HTML?, JS?
-5. code a minecraft mod for filming, player path/environment logging.
-
-<!-- </div> -->
-
-## Experienced Languages
-
-1. python
-2. matlab
-3. c / c++ / c#
-4. node.js / javascript / html / css
-5. verilog
-6. bash / batch
-7. java
-8. php
+1. a website keeping record of newest technology and developing history. (tech frontier/advance tree?)
+2. host a database with content: minecraft pics, vids, mods, shaders, textures... language: MySQL, HTML?, JS?
+3. code a minecraft mod for filming, player path/environment logging.
 
 <!-- </div> -->
 
