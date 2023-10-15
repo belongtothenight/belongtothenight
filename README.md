@@ -44,7 +44,7 @@
 
 <!-- <div align="left"> -->
 
-- 👋 Hi, I’m @belongtothenight, currently studying in CYCU Electrical Engineering Bachelor Degree.
+- 👋 Hi, I’m @belongtothenight, currently studying in CYCU Electrical Engineering Master Degree.
 - 👀 I’m interested in Drones, Control Systems, ML, DL, BD, audio, analog circuit design, IoT.
 - I’m currently learning RTDSP, FPGA, CN, CF, QC.
 - I've love to collaborate on: Anything!
