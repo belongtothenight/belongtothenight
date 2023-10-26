@@ -13,8 +13,7 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Keil MDK](https://img.shields.io/badge/Keil%20MDK-0887ae?style=for-the-badge&logo=arm&color=white)
-
+![Keil MDK](https://img.shields.io/badge/Keil%20MDK-0887ae?style=for-the-badge&logo=arm&logoColor=white)
 ### OS
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
