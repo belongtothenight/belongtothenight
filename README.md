@@ -38,6 +38,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logoColor=white)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+![PowerShell](https://img.shields.io/badge/powershell-012456?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Verilog HDL](https://img.shields.io/badge/verilog_HDL-0898A9?style=for-the-badge&logoColor=white)
