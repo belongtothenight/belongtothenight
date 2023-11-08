@@ -43,7 +43,17 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Verilog HDL](https://img.shields.io/badge/verilog_HDL-0898A9?style=for-the-badge&logoColor=white)
 
+Source: ![Shield.io](https://shields.io/badges)
+
 </div>
+
+<!--
+Mantaining Shields.io Static Badge
+1. badgeContent: <name>-<color> | ARM Keil-0887ae
+2. style: <style options> | for-the-badge
+3. logo: <logo name> | Arm Keil <https://simpleicons.org/>
+4. logoColor: <color code> | white
+-->
 
 <div align="center">
 <details><summary>More Details</summary>
