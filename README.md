@@ -46,6 +46,8 @@
 
 Source: ![Shield.io](https://shields.io/badges) | ![Simple Icons](https://simpleicons.org/)
 
+Visit <https://belongtothenight.github.io> for documentations!
+
 </div>
 
 <!--
