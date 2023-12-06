@@ -31,6 +31,7 @@
 ![CMake](https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![GNUAWK](https://img.shields.io/badge/GNUAWK-%23A42E2B?style=for-the-badge&logo=GNU)
 ![GNUPlot](https://img.shields.io/badge/GNUPlot-f0a9f0?style=for-the-badge&logo=gnuplot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -44,7 +45,7 @@
 ![Shell Script](https://img.shields.io/badge/GNU-Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Verilog HDL](https://img.shields.io/badge/verilog_HDL-0898A9?style=for-the-badge&logoColor=white)
 
-Source: ![Shield.io](https://shields.io/badges) | ![Simple Icons](https://simpleicons.org/)
+Source: <https://shields.io/badges> | <https://simpleicons.org/>
 
 Visit <https://belongtothenight.github.io> for documentations!
 
