@@ -1,3 +1,5 @@
+Visit <https://belongtothenight.github.io> for documentations!
+
 <!-- <div align="center">
   
   <a href="https://github.com/belongtothenight">![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=belongtothenight&theme=codeSTACKr&show_icons=true)</a>
@@ -47,7 +49,6 @@
 
 Source: <https://shields.io/badges> | <https://simpleicons.org/>
 
-Visit <https://belongtothenight.github.io> for documentations!
 
 </div>
 
