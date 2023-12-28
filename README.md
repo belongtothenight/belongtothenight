@@ -1,4 +1,6 @@
+<div align="center">
 Visit <https://belongtothenight.github.io> for documentations!
+</div>
 
 <!-- <div align="center">
   
