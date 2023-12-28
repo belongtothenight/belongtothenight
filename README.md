@@ -1,5 +1,5 @@
 <div align="center">
-Visit <https://belongtothenight.github.io> for documentations!
+Visit <a href="https://belongtothenight.github.io">https://belongtothenight.github.io</a> for documentations!
 </div>
 
 <!-- <div align="center">
